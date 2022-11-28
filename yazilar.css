@@ -1,0 +1,25 @@
+.yazi1{background-color: #3372F8;
+    color: aliceblue;
+    width: 400px;
+    border: 3px dotted red;
+    
+    padding: 70px;
+        
+}
+.yazi2{background-color: #007F01;
+    color: aliceblue;
+    width: 400px;
+    border: 3px solid #FEAB10;
+    border-radius: 20px;
+    padding: 70px;
+
+}
+.yazi3{background-color: #FFFF00;
+    color: black;
+    width: 400px;
+    border: 6px double #0000FE;
+
+    border-radius: 20px;
+    padding: 70px;
+
+}

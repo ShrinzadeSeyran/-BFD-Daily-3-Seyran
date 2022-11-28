@@ -1,0 +1,30 @@
+.baki{background-image: url("a25ec4ac-city-33415-1732e873f4b.jpg");
+    width: 250px;
+    padding: 80px;
+    border-radius: 10px;
+    background-size: cover;
+    
+    color: bisque;
+    
+    
+}
+.batumi{
+    background-image: url("desktop.jpg");
+    width: 250px;
+    padding: 80px;
+    border-radius: 10px;
+    background-size: cover;
+    color: white;
+    margin-left: 408px;
+}
+.Manzara{background-image: url("maraqli-sekiller.com_16fd1163d837c4007d8441431280.jpg") ;
+        width: 250px;
+        padding: 80px;
+        border-radius: 10px;
+        background-size: cover;
+        color: white;
+
+}
+.sola{
+    margin-left: -50px;
+}
